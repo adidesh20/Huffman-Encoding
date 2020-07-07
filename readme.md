@@ -14,7 +14,6 @@ How to run the program
 Prequisites
 ------------
 
-- Make
 - GCC/G++ (or another compiler of your choice)
 
 Install
